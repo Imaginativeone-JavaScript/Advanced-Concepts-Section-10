@@ -59,5 +59,7 @@
 	```javascript
 	import fight from './script.js'
 	```
-
+	
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+	
 	- [ ] 150. Section Review | 2min
